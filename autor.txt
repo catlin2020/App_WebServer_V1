@@ -8,6 +8,7 @@ CuentaTwitter: @difetre
 Cuenta Linked in: https://www.linkedin.com/in/diego-fernando-709bb71ab
 Cuenta Github: https://github.com/catlin2020/App_WebServer_V1
 Cuenta Facebook: Diego Fernando Trejos
+Cuenta Skipe: live:dftrejos31
 
 
 ExperienciaProfesional: Goodyear de Colombia
@@ -16,26 +17,29 @@ ExperienciaProfesional: Goodyear de Colombia
 
 Cargo: Operario Maquinista
               Mecánico
+                                                                                                    
+                                                                                                  Manejo 1-5
 
-Programas Informáticos: Microsoft excel,
-                                            Microsoft Word, 
-                                            Visual Basic, 
-                                            Adobe Fireworks CS6,
-                                            Oracle VM VirtualBox,
-                                            Rufus,
-                                            Yumi,
-                                            FormatFactory,
-                                            Camtasia Studio 8, 
-                                            JDownloader, 
-                                            Adobe Muse CC 2018,
-                                            Html 5, 
-                                            TeamViewer, 
-                                            Ultraiso,
-                                            Github,
-                                            Zoom,
-                                            DLC Boot.
-Idiomas: Inglés, 
-                Español.
+Programas Informáticos: Microsoft excel......................................3             
+                                            Microsoft Word, ...................................3
+                                            Visual Basic, ........................................3
+                                            Adobe Fireworks CS6.........................4
+                                            Oracle VM VirtualBox,..........................4
+                                            Rufus......................................................4
+                                            Yumi........................................................5
+                                            FormatFactory.......................................5
+                                            Camtasia Studio 8................................4
+                                            JDownloader..........................................4
+                                            Adobe Muse CC 2018..........................2
+                                            Html 5......................................................2
+                                            TeamViewer...........................................4
+                                            Ultraiso...................................................3
+                                            Github.....................................................2
+                                            Zoom......................................................3
+                                            DLC Boot...............................................3
+
+Idiomas: Inglés         ..........................................................................3
+                Español    ...........................................................................5
 
 Educación: Título: Técnico profesional en Gestión de Mantenimiento Industrial,
                      Tïtulo: Tecnico en Redes de telecomunicación, 
