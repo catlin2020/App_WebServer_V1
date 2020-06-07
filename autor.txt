@@ -1,0 +1,45 @@
+Nombres: Diego Fernando
+Apellidos: Trejos Renza
+Ciudad: Cali
+País: Colombia
+Teléfono: 3188802611
+Correo electrónico : dftrejos31@gmail.com
+CuentaTwitter: @difetre
+Cuenta Linked in: dftrejos31@gmail.com
+Cuenta Github: https://github.com/catlin2020/App_WebServer_V1
+Cuenta Facebook: Diego Fernando Trejos
+
+
+ExperienciaProfesional: Goodyear de Colombia
+                                           Productora de Papeles Propal
+                                           DXN
+
+Cargo: Operario Maquinista
+              Mecánico
+
+Programas Informáticos: Microsoft excel,
+                                            Microsoft Word, 
+                                            Visual Basic, 
+                                            Adobe Fireworks CS6,
+                                            Oracle VM VirtualBox,
+                                            Rufus,
+                                            Yumi,
+                                            FormatFactory,
+                                            Camtasia Studio 8, 
+                                            JDownloader, 
+                                            Adobe Muse CC 2018,
+                                            Html 5, 
+                                            TeamViewer, 
+                                            Ultraiso,
+                                            Github,
+                                            Zoom,
+                                            DLC Boot.
+Idiomas: Inglés, 
+                Español.
+
+Educación: Título: Técnico profesional en Gestión de Mantenimiento Industrial,
+                     Tïtulo: Tecnico en Redes de telecomunicación, 
+                     Título: Técnico Mantenimiento y reparación de computadores, 
+                     Título: Electrohidráulica Básica y avanzada, 
+                     Título: Diplomado Redes y Servidores Informáticos
+                     Título: Marketin Digital
