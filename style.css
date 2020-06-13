@@ -1,9 +1,19 @@
 body {
-background: #F00000;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #DC281E, #F00000);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #DC281E, #F00000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #BDC581;
 
-color: white;
+color: black;
 
 
+margin: 15px auto;
+}
+h1{font-size: 45px;
+font-family: arial black;
+color: blue;
+}
+h2{font-size: 20px;
+font-family: arial black;
+}
+header ,section ,footer, article,ul,p {
+border: 1px solid gray}
+header{
 }
